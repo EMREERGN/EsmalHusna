@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="yazi_rengi">#8c8c8c</color>
+    <color name="arka_plan">#051522</color>
+
+    <color name="nokta_aktif">#fffafa</color>
+    <color name="nokta_pasif">#83878b</color>
+
+
+</resources>

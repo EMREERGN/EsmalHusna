@@ -1,0 +1,497 @@
+{
+  "1": {
+    "Ad": "Allah",
+    "Resim": "allah.png",
+    "Anlam": "O'nun zat ve özel ismidir. Diğer isimler, fiilleri, sıfatları ve tecellileri ile ilgilidir"
+  },
+  "2": {
+    "Ad": "Er-Rahman",
+    "Resim": "er-rahman.png",
+    "Anlam": "Dünyada bütün mahlûkata merhamet eden, şefkat gösteren, ihsan eden"
+  },
+  "3": {
+    "Ad": "Er-Rahim",
+    "Resim": "er-rahim.png",
+    "Anlam": "Ahirette, sadece müminlere acıyan, merhamet eden"
+  },
+  "4": {
+    "Ad": "El-Melik",
+    "Resim": "el-melik.png",
+    "Anlam": "Çok mülkü olan, her şeyin sahibi ve Malikî, onları terbiye edip yetiştiren, mülk ve güç veren"
+  },
+  "5": {
+    "Ad": "El-Kuddüs",
+    "Resim": "el-kuddus.png",
+    "Anlam": "Her türlü çirkinlik, noksanlık ve ayıplardan uzak, tertemiz, bütün kemal sıfatları kendisinde toplayan, güzellik, iyilik ve faziletlerle övülen"
+  },
+  "6": {
+    "Ad": "Es-Selam",
+    "Resim": "es-selam.png",
+    "Anlam": "Eksiklik, acizlik, hastalık, ölüm ve benzeri şeylerden salim olan, kullarına güven ve selamet veren"
+  },
+  "7": {
+    "Ad": "El-Mü'min",
+    "Resim": "el-mumin.png",
+    "Anlam": "Yarattıklarına güven veren"
+  },
+  "8": {
+    "Ad": "El-Müheymin",
+    "Resim": "el-muheymin.png",
+    "Anlam": "Her şeyi görüp gözeten"
+  },
+  "9": {
+    "Ad": "El-Azîz",
+    "Resim": "el-aziz.png",
+    "Anlam": "İzzet sahibi, her şeye galip olan."
+  },
+  "10": {
+    "Ad": "El-Cebbâr",
+    "Resim": "el-cebbar.png",
+    "Anlam": "Azamet ve kudret sahibi. Dilediğini yapan ve yaptıran."
+  },
+  "11": {
+    "Ad": "El-Mütekebbir",
+    "Resim": "el-mutekebbir.png",
+    "Anlam": "Büyüklükte eşi, benzeri olmayan."
+  },
+  "12": {
+    "Ad": "El-Hâlık",
+    "Resim": "el-halik.png",
+    "Anlam": "Yaratan, yoktan var eden."
+  },
+  "13": {
+    "Ad": "El-Bâri",
+    "Resim": "el-bari.png",
+    "Anlam": "Her şeyi kusursuz ve uyumlu yaratan."
+  },
+  "14": {
+    "Ad": "El-Musavvir",
+    "Resim": "el-musavvir.png",
+    "Anlam": "Varlıklara şekil veren."
+  },
+  "15": {
+    "Ad": "El-Gaffâr",
+    "Resim": "el-gaffar.png",
+    "Anlam": "Günahları örten ve çok mağfiret eden"
+  },
+  "16": {
+    "Ad": "El-Kahhâr",
+    "Resim": "el-kahhar.png",
+    "Anlam": "Her şeye, her istediğini yapacak surette, galip ve hakim olan."
+  },
+  "17": {
+    "Ad": "El-Vehhâb",
+    "Resim": "el-vehhab.png",
+    "Anlam": "Karşılıksız hibeler veren, çok fazla ihsan eden."
+  },
+  "18": {
+    "Ad": "Er-Rezzâk",
+    "Resim": "er-rezzak.png",
+    "Anlam": "Bütün mahlükatın rızkını veren ve ihtiyacını karşılayan"
+  },
+  "19": {
+    "Ad": "El-Fettâh",
+    "Resim": "el-fettah.png",
+    "Anlam": "Her türlü müşkülleri açan ve kolaylaştıran, darlıktan kurtaran."
+  },
+  "20": {
+    "Ad": "El-Alîm",
+    "Resim": "el-alim.png",
+    "Anlam": "Gizli açık, geçmiş, gelecek, her şeyi en ince detaylarına kadar bilen."
+  },
+  "21": {
+    "Ad": "El-Kâbıd",
+    "Resim": "el-kabid.png",
+    "Anlam": "Dilediğine darlık veren, sıkan, daraltan."
+  },
+  "22": {
+    "Ad": "El-Bâsıt",
+    "Resim": "el-basit.png",
+    "Anlam": "Dilediğine bolluk veren, açan, genişleten."
+  },
+  "23": {
+    "Ad": "El-Hâfıd",
+    "Resim": "el-hafid.png",
+    "Anlam": "Dereceleri alçaltan"
+  },
+  "24": {
+    "Ad": "Er-Râfi",
+    "Resim": "er-rafi.png",
+    "Anlam": "Şeref verip yükselten"
+  },
+  "25": {
+    "Ad": "El-Mu'ız",
+    "Resim": "el-muizz.png",
+    "Anlam": "Dilediğini aziz eden, izzet veren"
+  },
+  "26": {
+    "Ad": "El-Müzil",
+    "Resim": "el-muzill.png",
+    "Anlam": "Dilediğini zillete düşüren"
+  },
+  "27": {
+    "Ad": "Es-Semi",
+    "Resim": "es-semi.png",
+    "Anlam": "Her şeyi en iyi işiten"
+  },
+  "28": {
+    "Ad": "El-Basîr",
+    "Resim": "el-basir.png",
+    "Anlam": "Gizli açık, her şeyi en iyi gören"
+  },
+  "29": {
+    "Ad": "El-Hakem",
+    "Resim": "el-hakem.png",
+    "Anlam": "Mutlak hakim, hakkı batıldan ayıran. Hikmetle hükmeden"
+  },
+  "30": {
+    "Ad": "El-Adl",
+    "Resim": "el-adl.png",
+    "Anlam": "Mutlak adil, çok adaletli"
+  },
+  "31": {
+    "Ad": "El-Latîf",
+    "Resim": "el-latif.png",
+    "Anlam": "Lütuf ve ihsan sahibi olan. Bütün incelikleri bilen"
+  },
+  "32": {
+    "Ad": "El-Habîr",
+    "Resim": "el-habir.png",
+    "Anlam": "Olmuş olacak her şeyden haberdar"
+  },
+  "33": {
+    "Ad": "El-Halîm",
+    "Resim": "el-halim.png",
+    "Anlam": "Cezada, acele etmeyen, yumuşak davranan"
+  },
+  "34": {
+    "Ad": "El-Azîm",
+    "Resim": "el-azim.png",
+    "Anlam": "Büyüklükte benzeri yok. Pek yüce."
+  },
+  "35": {
+    "Ad": "El-Gafûr",
+    "Resim": "el-gafur.png",
+    "Anlam": "Affı, mağfireti bol."
+  },
+  "36": {
+    "Ad": "Eş-Şekûr",
+    "Resim": "es-sekur.png",
+    "Anlam": "Az amele, çok sevap veren"
+  },
+  "37": {
+    "Ad": "El-Aliyy",
+    "Resim": "el-aliyy.png",
+    "Anlam": "Yüceler yücesi, çok yüce"
+  },
+  "38": {
+    "Ad": "El-Kebîr",
+    "Resim": "el-kebir.png",
+    "Anlam": "Büyüklükte benzeri yok, pek büyük."
+  },
+  "39": {
+    "Ad": "El-Hafîz",
+    "Resim": "el-hafiz.png",
+    "Anlam": "Her şeyi koruyucu olan."
+  },
+  "40": {
+    "Ad": "El-Mukît",
+    "Resim": "el-mukit.png",
+    "Anlam": "Her yaratılmışın rızkını, gıdasını veren, tayin eden"
+  },
+  "41": {
+    "Ad": "El-Hasîb",
+    "Resim": "el-hasib.png",
+    "Anlam": "Kulların hesabını en iyi gören"
+  },
+  "42": {
+    "Ad": "El-Celîl",
+    "Resim": "celil.png",
+    "Anlam": "Celal ve azamet sahibi olan."
+  },
+  "43": {
+    "Ad": "El-Kerîm",
+    "Resim": "el-kerim.png",
+    "Anlam": "Keremi, lütuf ve ihsanı bol, karşılıksız veren, çok ikram eden."
+  },
+  "44": {
+    "Ad": "Er-Rakîb",
+    "Resim": "er-rakib.png",
+    "Anlam": "Her varlığı, her işi her an görüp, gözeten, kontrolü altında tutan"
+  },
+  "45": {
+    "Ad": "El-Mucîb",
+    "Resim": "el-mucib.png",
+    "Anlam": "Duaları, istekleri kabul eden"
+  },
+  "46": {
+    "Ad": "El-Vâsi",
+    "Resim": "el-vasi.png",
+    "Anlam": "Rahmet, kudret ve ilmi ile her şeyi ihata eden"
+  },
+  "47": {
+    "Ad": "El-Hakîm",
+    "Resim": "el-hakim.png",
+    "Anlam": "Her işi hikmetli, her şeyi hikmetle yaratan."
+  },
+  "48": {
+    "Ad": "El-Vedûd",
+    "Resim": "el-vedud.png",
+    "Anlam": "Kullarını en fazla seven, sevilmeye en layık olan"
+  },
+  "49": {
+    "Ad": "El-Mecîd",
+    "Resim": "el-mecid.png",
+    "Anlam": "Her türlü övgüye layık bulunan"
+  },
+  "50": {
+    "Ad": "El-Bâis",
+    "Resim": "el-bais.png",
+    "Anlam": "Ölüleri dirilten"
+  },
+  "51": {
+    "Ad": "Eş-Şehîd",
+    "Resim": "es-sehid.png",
+    "Anlam": "Her zaman her yerde hazır ve nazır olan"
+  },
+  "52": {
+    "Ad": "El-Hakk",
+    "Resim": "el-hakk.png",
+    "Anlam": "Varlığı hiç değişmeden duran. Var olan, hakkı ortaya çıkaran"
+  },
+  "53": {
+    "Ad": "El-Vekîl",
+    "Resim": "el-vekil.png",
+    "Anlam": "Kendisine tevekkül edenlerin işlerini en iyi neticeye ulaştıran"
+  },
+  "54": {
+    "Ad": "El-Kaviyy",
+    "Resim": "el-kaviyy.png",
+    "Anlam": "Kudreti en üstün ve hiç azalmaz."
+  },
+  "55": {
+    "Ad": "El-Metîn",
+    "Resim": "el-metin.png",
+    "Anlam": "Kuvvet ve kudret kaynağı, pek güçlü."
+  },
+  "56": {
+    "Ad": "El-Veliyy",
+    "Resim": "el-veli.png",
+    "Anlam": "İnananların dostu, onları sevip yardım eden"
+  },
+  "57": {
+    "Ad": "El-Hamîd",
+    "Resim": "el-hamid.png",
+    "Anlam": "Her türlü hamd ve senaya layık olan"
+  },
+  "58": {
+    "Ad": "El-Muhsî",
+    "Resim": "el-muhsi.png",
+    "Anlam": "Yarattığı ve yaratacağı bütün varlıkların sayısını bilen"
+  },
+  "59": {
+    "Ad": "El-Mübdi",
+    "Resim": "el-mubdi.png",
+    "Anlam": "Maddesiz, örneksiz yaratan."
+  },
+  "60": {
+    "Ad": "El-Muîd",
+    "Resim": "el-muid.png",
+    "Anlam": "Yarattıklarını yok edip, sonra tekrar diriltecek olan."
+  },
+  "61": {
+    "Ad": "El-Muhyî",
+    "Resim": "el-muhyi.png",
+    "Anlam": "İhya eden, dirilten, can veren"
+  },
+  "62": {
+    "Ad": "El-Mümît",
+    "Resim": "el-mumit.png",
+    "Anlam": "Her canlıya ölümü tattıran."
+  },
+  "63": {
+    "Ad": "El-Hayy",
+    "Resim": "el-hayy.png",
+    "Anlam": "Ezeli ve ebedi hayat sahib"
+  },
+  "64": {
+    "Ad": "El-Kayyûm",
+    "Resim": "el-kayyum.png",
+    "Anlam": "Varlıkları diri tutan, zatı ile kaim olan."
+  },
+  "65": {
+    "Ad": "El-Vâcid",
+    "Resim": "el-vacid.png",
+    "Anlam": "Kendisinden hiçbir şey gizli kalmayan, istediğini, istediği vakit bulan"
+  },
+  "66": {
+    "Ad": "El-Macîd",
+    "Resim": "el-macid.png",
+    "Anlam": "Kadri ve şanı büyük, keremi, ihsanı bol olan."
+  },
+  "67": {
+    "Ad": "El-Vâhid",
+    "Resim": "el-vahid.png",
+    "Anlam": "Zat, sıfat ve fiillerinde benzeri ve ortağı olmayan, tek olan"
+  },
+  "68": {
+    "Ad": "Es-Samed",
+    "Resim": "es-samed.png",
+    "Anlam": "Hiçbir şeye ihtiyacı olmayan, herkesin muhtaç olduğu."
+  },
+  "69": {
+    "Ad": "El-Kâdir",
+    "Resim": "el-kadir.png",
+    "Anlam": "Dilediğini dilediği gibi yaratmaya muktedir olan"
+  },
+  "70": {
+    "Ad": "El-Muktedir",
+    "Resim": "el-muktedir.png",
+    "Anlam": "Dilediği gibi tasarruf eden, her şeyi kolayca yaratan kudret sahibi"
+  },
+  "71": {
+    "Ad": "El-Mukaddim",
+    "Resim": "el-mukaddim.png",
+    "Anlam": "Dilediğini, öne alan, yükselten"
+  },
+  "72": {
+    "Ad": "El-Muahhir",
+    "Resim": "el-muahhir.png",
+    "Anlam": "Dilediğini sona alan, erteleyen, alçaltan"
+  },
+  "73": {
+    "Ad": "El-Evvel",
+    "Resim": "el-evvel.png",
+    "Anlam": "Ezeli olan, varlığının başlangıcı olmayan"
+  },
+  "74": {
+    "Ad": "El-Âhir",
+    "Resim": "el-ahir.png",
+    "Anlam": "Ebedi olan, varlığının sonu olmayan."
+  },
+  "75": {
+    "Ad": "El-Zâhir",
+    "Resim": "ez-zahir.png",
+    "Anlam": "Varlığı açık, aşikar olan, kesin delillerle bilinen"
+  },
+  "76": {
+    "Ad": "El-Bâtın",
+    "Resim": "el-batin.png",
+    "Anlam": "Akılların idrak edemeyeceği, yüceliği gizli olan."
+  },
+  "77": {
+    "Ad": "El-Vâlî",
+    "Resim": "el-vali.png",
+    "Anlam": "Bütün kainatı idare eden"
+  },
+  "78": {
+    "Ad": "El-Müteâlî",
+    "Resim": "el-muteali.png",
+    "Anlam": "Son derece yüce olan"
+  },
+  "79": {
+    "Ad": "El-Berr",
+    "Resim": "el-berr.png",
+    "Anlam": "İyilik ve ihsanı bol, iyilik ve ihsan kaynağı."
+  },
+  "80": {
+    "Ad": "Et-Tevvâb",
+    "Resim": "et-tevvab.png",
+    "Anlam": "Tevbeleri kabul edip, günahları bağışlayan"
+  },
+  "81": {
+    "Ad": "El-Müntekim",
+    "Resim": "el-muntekim.png",
+    "Anlam": "Zalimlerin cezasını veren, intikam alan"
+  },
+  "82": {
+    "Ad": "El-Afüvv",
+    "Resim": "el-afuvv.png",
+    "Anlam": "Affı çok olan, günahları affetmeyi seven"
+  },
+  "83": {
+    "Ad": "Er-Raûf",
+    "Resim": "er-rauf.png",
+    "Anlam": "Çok merhametli, pek şefkatli"
+  },
+  "84": {
+    "Ad": "Mâlik-ül Mülk",
+    "Resim": "malikul-mulk.png",
+    "Anlam": "Mülkün, her varlığın sahibi"
+  },
+  "85": {
+    "Ad": "Zül-Celâli vel ikrâm",
+    "Resim": "zul-celali-vel-ikram.png",
+    "Anlam": "Celal, azamet ve pek büyük ikram sahibi."
+  },
+  "86": {
+    "Ad": "El-Muksit",
+    "Resim": "el-muksit.png",
+    "Anlam": "Her işi birbirine uygun yapan"
+  },
+  "87": {
+    "Ad": "El-Câmi",
+    "Resim": "el-cami.png",
+    "Anlam": "Mahşerde her mahlükatı bir araya toplayan."
+  },
+  "88": {
+    "Ad": "El-Ganiyy",
+    "Resim": "el-ganiyy.png",
+    "Anlam": "Her türlü zenginlik sahibi, ihtiyacı olmayan"
+  },
+  "89": {
+    "Ad": "El-Mugnî",
+    "Resim": "el-mugni.png",
+    "Anlam": "Müstağni kılan. ihtiyaç gideren, zengin eden"
+  },
+  "90": {
+    "Ad": "El-Mâni",
+    "Resim": "el-mani.png",
+    "Anlam": "Dilemediği şeye mani olan, engelleyen"
+  },
+  "91": {
+    "Ad": "Ed-Dârr",
+    "Resim": "ed-darr.png",
+    "Anlam": "Elem, zarar verenleri yaratan"
+  },
+  "92": {
+    "Ad": "En-Nâfi",
+    "Resim": "en-nafi.png",
+    "Anlam": "Fayda veren şeyleri yaratan"
+  },
+  "93": {
+    "Ad": "En-Nûr",
+    "Resim": "en-nur.png",
+    "Anlam": "Alemleri nurlandıran, dilediğine nur veren"
+  },
+  "94": {
+    "Ad": "El-Hâdî",
+    "Resim": "el-hadi.png",
+    "Anlam": "Hidayet veren"
+  },
+  "95": {
+    "Ad": "El-Bedî",
+    "Resim": "el-bedi.png",
+    "Anlam": "Eşi ve benzeri olmayan güzellik sahibi, eşsiz yaratan"
+  },
+  "96": {
+    "Ad": "El-Bâkî",
+    "Resim": "el-baki.png",
+    "Anlam": "Varlığının sonu olmayan, ebedi olan"
+  },
+  "97": {
+    "Ad": "El-Vâris",
+    "Resim": "el-varis.png",
+    "Anlam": "Her şeyin asıl sahibi olan"
+  },
+  "98": {
+    "Ad": "Er-Reşîd",
+    "Resim": "er-resid.png",
+    "Anlam": "İrşada muhtaç olmayan, doğru yolu gösteren"
+  },
+  "99": {
+    "Ad": "Es-Sabûr",
+    "Resim": "es-sabur.png",
+    "Anlam": "Ceza vermede acele etmeyen"
+  }
+}

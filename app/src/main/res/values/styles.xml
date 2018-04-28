@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/arka_plan</item>
+        <item name="colorPrimaryDark">@color/arka_plan</item>
+        <item name="colorAccent">@color/arka_plan</item>
+    </style>
+
+</resources>
